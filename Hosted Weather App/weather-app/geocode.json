@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpDM2ZvN0E",
+      "geometry": { "type": "Point", "coordinates": [-118.25419, 34.04805] },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpDM2ZvN0E",
+        "feature_type": "place",
+        "full_address": "Los Angeles, California, United States",
+        "name": "Los Angeles",
+        "name_preferred": "Los Angeles",
+        "coordinates": { "longitude": -118.25419, "latitude": 34.04805 },
+        "place_formatted": "California, United States",
+        "bbox": [-118.52144, 33.899991, -118.126728, 34.161439],
+        "context": {
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzoxbWJz",
+            "name": "Los Angeles County",
+            "wikidata_id": "Q104994"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpCbVRz",
+            "name": "California",
+            "wikidata_id": "Q99",
+            "region_code": "CA",
+            "region_code_full": "US-CA"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+            "name": "United States",
+            "wikidata_id": "Q30",
+            "country_code": "US",
+            "country_code_alpha_3": "USA"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpDM2ZvN0E",
+            "name": "Los Angeles",
+            "wikidata_id": "Q65"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpFeWd2",
+      "geometry": { "type": "Point", "coordinates": [-72.352357, -37.470189] },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpFeWd2",
+        "feature_type": "place",
+        "full_address": "Los Ángeles, Biobío, Chile",
+        "name": "Los Ángeles",
+        "name_preferred": "Los Ángeles",
+        "coordinates": { "longitude": -72.352357, "latitude": -37.470189 },
+        "place_formatted": "Biobío, Chile",
+        "bbox": [-72.68248, -37.663862, -72.041277, -37.178368],
+        "context": {
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBU1F2",
+            "name": "Biobío",
+            "wikidata_id": "Q2170",
+            "region_code": "BI",
+            "region_code_full": "CL-BI"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJaTg",
+            "name": "Chile",
+            "wikidata_id": "Q298",
+            "country_code": "CL",
+            "country_code_alpha_3": "CHL"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpFeWd2",
+            "name": "Los Ángeles",
+            "wikidata_id": "Q16910"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpiT3hH",
+      "geometry": { "type": "Point", "coordinates": [-3.696116, 40.359732] },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpiT3hH",
+        "feature_type": "neighborhood",
+        "full_address": "Los Ángeles, Madrid, Madrid, Spain",
+        "name": "Los Ángeles",
+        "name_preferred": "Los Ángeles",
+        "coordinates": { "longitude": -3.696116, "latitude": 40.359732 },
+        "place_formatted": "Madrid, Madrid, Spain",
+        "bbox": [-3.707059, 40.3456, -3.692975, 40.364528],
+        "context": {
+          "postcode": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBcitPUmc",
+            "name": "28041"
+          },
+          "locality": {
+            "mapbox_id": "dXJuOm1ieHBsYzpHQkdxUmc",
+            "name": "Villaverde",
+            "wikidata_id": "Q919536"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBZzlvUmc",
+            "name": "Madrid",
+            "wikidata_id": "Q2807"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpSRVk",
+            "name": "Madrid",
+            "wikidata_id": "Q24004405",
+            "region_code": "M",
+            "region_code_full": "ES-M"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJa1k",
+            "name": "Spain",
+            "wikidata_id": "Q29",
+            "country_code": "ES",
+            "country_code_alpha_3": "ESP"
+          },
+          "neighborhood": {
+            "mapbox_id": "dXJuOm1ieHBsYzpiT3hH",
+            "name": "Los Ángeles",
+            "wikidata_id": "Q390462"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpGamJNN0E",
+      "geometry": { "type": "Point", "coordinates": [-98.52601, 29.47038] },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpGamJNN0E",
+        "feature_type": "neighborhood",
+        "full_address": "Los Angeles Heights, San Antonio, Texas, United States",
+        "name": "Los Angeles Heights",
+        "name_preferred": "Los Angeles Heights",
+        "coordinates": { "longitude": -98.52601, "latitude": 29.47038 },
+        "place_formatted": "San Antonio, Texas, United States",
+        "bbox": [-98.534936, 29.465924, -98.51579, 29.484853],
+        "context": {
+          "postcode": {
+            "mapbox_id": "dXJuOm1ieHBsYzpFQnd1N0E",
+            "name": "78201"
+          },
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpFVndvN0E",
+            "name": "San Antonio",
+            "wikidata_id": "Q975",
+            "alternate": {
+              "mapbox_id": "dXJuOm1ieHBsYzpBUUtvN0E",
+              "name": "Balcones Heights"
+            }
+          },
+          "district": {
+            "mapbox_id": "dXJuOm1ieHBsYzpHU2Jz",
+            "name": "Bexar County",
+            "wikidata_id": "Q16861"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBc1Rz",
+            "name": "Texas",
+            "wikidata_id": "Q1439",
+            "region_code": "TX",
+            "region_code_full": "US-TX"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+            "name": "United States",
+            "wikidata_id": "Q30",
+            "country_code": "US",
+            "country_code_alpha_3": "USA"
+          },
+          "neighborhood": {
+            "mapbox_id": "dXJuOm1ieHBsYzpGamJNN0E",
+            "name": "Los Angeles Heights"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dXJuOm1ieHBsYzpETThxUmc",
+      "geometry": { "type": "Point", "coordinates": [-5.434688, 36.42312] },
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpETThxUmc",
+        "feature_type": "locality",
+        "full_address": "Los Ángeles, Jimena de la Frontera, Cádiz, Spain",
+        "name": "Los Ángeles",
+        "name_preferred": "Los Ángeles",
+        "coordinates": { "longitude": -5.434688, "latitude": 36.42312 },
+        "place_formatted": "Jimena de la Frontera, Cádiz, Spain",
+        "bbox": [-5.478701, 36.352707, -5.383741, 36.43099],
+        "context": {
+          "place": {
+            "mapbox_id": "dXJuOm1ieHBsYzpBYnFvUmc",
+            "name": "Jimena de la Frontera",
+            "wikidata_id": "Q916664"
+          },
+          "region": {
+            "mapbox_id": "dXJuOm1ieHBsYzpCT1JH",
+            "name": "Cádiz",
+            "wikidata_id": "Q81978",
+            "region_code": "CA",
+            "region_code_full": "ES-CA"
+          },
+          "country": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJa1k",
+            "name": "Spain",
+            "wikidata_id": "Q29",
+            "country_code": "ES",
+            "country_code_alpha_3": "ESP"
+          },
+          "locality": {
+            "mapbox_id": "dXJuOm1ieHBsYzpETThxUmc",
+            "name": "Los Ángeles",
+            "wikidata_id": "Q5981290"
+          }
+        }
+      }
+    }
+  ],
+  "attribution": "NOTICE: © 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}

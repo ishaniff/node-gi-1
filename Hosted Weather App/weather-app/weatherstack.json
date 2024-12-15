@@ -1,0 +1,39 @@
+{
+  "request": {
+    "type": "LatLon",
+    "query": "Lat 37.00 and Lon 122.00",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Xiaoluocun",
+    "country": "China",
+    "region": "Shandong",
+    "lat": "37.039",
+    "lon": "122.018",
+    "timezone_id": "Asia/Shanghai",
+    "localtime": "2024-12-15 12:02",
+    "localtime_epoch": 1734264120,
+    "utc_offset": "8.0"
+  },
+  "current": {
+    "observation_time": "04:02 AM",
+    "temperature": 5,
+    "weather_code": 116,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "weather_descriptions": ["Partly Cloudy "],
+    "wind_speed": 26,
+    "wind_degree": 309,
+    "wind_dir": "NW",
+    "pressure": 1024,
+    "precip": 0,
+    "humidity": 42,
+    "cloudcover": 27,
+    "feelslike": 1,
+    "uv_index": 2,
+    "visibility": 10,
+    "is_day": "yes"
+  }
+}

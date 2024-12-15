@@ -1,0 +1,86 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Geist+Mono:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap);
+
+body {
+  color: #fff;
+  background-color: #0d1b2a;
+  font-family: "Open Sans", serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex-grow: 1;
+}
+
+h1 {
+  color: #61dafb;
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+.portrait {
+  width: 300px;
+}
+
+footer {
+  color: #b0c4de;
+  margin-top: 16px;
+}
+
+header {
+  margin-top: 16px;
+  margin-bottom: 48px;
+  padding: 4px;
+}
+
+header a {
+  color: #b0c4de;
+  background-color: #1e3a5f;
+  border-radius: 10px;
+  margin-right: 16px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+header a:hover {
+  color: #fff;
+  background-color: #355f77;
+  border-radius: 10px;
+}
+
+input {
+  border: 1px solid #1e3a5f;
+  padding: 8px;
+  color: #fff;
+  background-color: #355f77;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid #61dafb;
+  background: #61dafb;
+  color: #222;
+  padding: 8px;
+}
+
+footer a {
+  color: #b0c4de;
+  margin-right: 16px;
+  text-decoration: none;
+  padding: 15px;
+}
+
+i {
+  padding: 10px;
+}
+
+footer a:hover {
+  color: #fff;
+  background-color: #355f77;
+  border-radius: 10px;
+}
