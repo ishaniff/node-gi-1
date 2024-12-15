@@ -1,6 +1,7 @@
+// MODULES
 const fs = require("fs");
 const chalk = require("chalk");
-
+// FUNCTIONS ATTACHED TO RESPECTIVE COMMANDS ON YARGS
 const addNote = (title, body) => {
   const notes = loadNotes();
   const duplicateNote = notes.find((note) => note.title === title);
@@ -26,7 +27,7 @@ const removeNote = (title) => {
     console.log(chalk.red.inverse("no note found"));
   }
 };
-
+// REUSABLE FUNCTIONS THAT ARE CALLED IN ON EVERY OTHER FUNCTION
 const saveNotes = (notes) => {
   const dataJSON = JSON.stringify(notes);
   fs.writeFileSync("notes.json", dataJSON);

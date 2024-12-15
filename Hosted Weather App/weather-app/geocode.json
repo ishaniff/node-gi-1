@@ -1,3 +1,4 @@
+// API DATA USED LOCALLY AS "MOCK" TO NOT WASTE API TOKENS WHILE DEVELOPING
 {
   "type": "FeatureCollection",
   "features": [

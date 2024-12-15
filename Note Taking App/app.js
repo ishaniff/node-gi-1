@@ -1,7 +1,8 @@
+// MODULES
 const fs = require("fs");
 const yargs = require("yargs");
 const notes = require("./notes.js");
-
+// POPULAR ARGV COMMAND PARSER AND PROCESSOR, CREATING NEW COMMANDS WITH NAME, DESCRIPTIION, REQUIRE SYNTAX AND PROPERTIES, AND FUNCTIONS TO USE
 yargs.command({
   command: "add",
   describe: "add a new note",
@@ -55,5 +56,5 @@ yargs.command({
     notes.editNote(argv.title, argv.body);
   },
 });
-
+// COMMAND THAT RUNS/STARTS YARGS TO ACTUALLY PROCESS ARGV PROCESS
 yargs.parse();

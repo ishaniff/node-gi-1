@@ -1,7 +1,8 @@
+// IMPORTING MODULES
 const LanguageDetect = require("languagedetect");
 const lngDetector = new LanguageDetect();
 const chalk = require("chalk");
-
+// CREATING A FUNCTION USING NPM PACKAGE LANGUAGEDETECT, PASSING IN STRING, RETURNING ONLY ONE/HIGHEST POSSIBILITY OF DETECTED LANGUAGE
 function languageAnalyzer(str) {
   return lngDetector.detect(str, 1);
 }

@@ -1,3 +1,5 @@
+// API DATA USED LOCALLY AS "MOCK" TO NOT WASTE API CALLS WHILE DEVELOPING
+
 {
   "request": {
     "type": "LatLon",
